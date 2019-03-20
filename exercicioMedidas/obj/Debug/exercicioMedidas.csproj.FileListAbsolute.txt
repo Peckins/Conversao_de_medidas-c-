@@ -1,0 +1,31 @@
+E:\Desenvolvimento de Sistemas\exercicio\exercicioMedidas\exercicioMedidas\bin\Debug\exercicioMedidas.exe.config
+F:\Desenvolvimento de Sistemas\exercicio\exercicioMedidas\exercicioMedidas\bin\Debug\exercicioMedidas.exe.config
+F:\Desenvolvimento de Sistemas\exercicio\exercicioMedidas\exercicioMedidas\bin\Debug\exercicioMedidas.exe
+F:\Desenvolvimento de Sistemas\exercicio\exercicioMedidas\exercicioMedidas\bin\Debug\exercicioMedidas.pdb
+F:\Desenvolvimento de Sistemas\exercicio\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.csprojAssemblyReference.cache
+F:\Desenvolvimento de Sistemas\exercicio\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.Calculador.resources
+F:\Desenvolvimento de Sistemas\exercicio\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.Properties.Resources.resources
+F:\Desenvolvimento de Sistemas\exercicio\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.csproj.GenerateResource.cache
+F:\Desenvolvimento de Sistemas\exercicio\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.csproj.CoreCompileInputs.cache
+F:\Desenvolvimento de Sistemas\exercicio\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.exe
+F:\Desenvolvimento de Sistemas\exercicio\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.pdb
+E:\Desenvolvimento de Sistemas\exercicio\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.exe
+E:\Desenvolvimento de Sistemas\exercicio\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.pdb
+F:\2° modulo\D.S\exercicioMedidas\exercicioMedidas\bin\Debug\exercicioMedidas.exe.config
+F:\2° modulo\D.S\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.exe
+F:\2° modulo\D.S\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.pdb
+F:\2° modulo\D.S\exercicioMedidas\exercicioMedidas\bin\Debug\exercicioMedidas.exe
+F:\2° modulo\D.S\exercicioMedidas\exercicioMedidas\bin\Debug\exercicioMedidas.pdb
+F:\2° modulo\D.S\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.csprojResolveAssemblyReference.cache
+F:\2° modulo\D.S\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.Calculador.resources
+F:\2° modulo\D.S\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.Properties.Resources.resources
+F:\2° modulo\D.S\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\exercicioMedidas\exercicioMedidas\bin\Debug\exercicioMedidas.exe.config
+C:\Users\User\Desktop\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.exe
+C:\Users\User\Desktop\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.pdb
+C:\Users\User\Desktop\exercicioMedidas\exercicioMedidas\bin\Debug\exercicioMedidas.exe
+C:\Users\User\Desktop\exercicioMedidas\exercicioMedidas\bin\Debug\exercicioMedidas.pdb
+C:\Users\User\Desktop\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.Calculador.resources
+C:\Users\User\Desktop\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.Properties.Resources.resources
+C:\Users\User\Desktop\exercicioMedidas\exercicioMedidas\obj\Debug\exercicioMedidas.csproj.GenerateResource.Cache
